@@ -15,7 +15,8 @@ Para usar este programa necesitas un gestor de userscripts (por ejemplo, [Violen
 * Se ha arreglado el Client-side PRO haciendo que siempre se limpie el caché + algunas cookies innecesarias al acceder a Wuolah con el UserScript (y sus opciones) activado. 
 
 ## Instalación
-Una vez hayas descargado tu gestor de userscripts, descarga el script desde la sección de [Releases](https://github.com/C0d11ngR4bb1t/WuolahExtra-patched/releases), ¡y listo!
+Una vez hayas descargado tu gestor de userscripts, descarga el script desde la sección de [Releases](https://github.com/C0d1ngR4bb1t/WuolahExtra-patched/releases), ¡y listo!
+Enlace directo de instalación del último release (lanzamiento): [WuolahExtra-patched](https://github.com/C0d1ngR4bb1t/WuolahExtra-patched/releases/latest/download/WuolahExtraPatched.user.js) 
 
 ## Configuración
 Puedes acceder a la configuración del script desde tu gestor de userscripts en el icono de tu barra de herramientas ([más info](https://wiki.greasespot.net/Greasemonkey_Manual:Monkey_Menu#The_Menu))
