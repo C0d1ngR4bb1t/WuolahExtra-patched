@@ -1,5 +1,8 @@
-# WuolahExtra (PATCHED)
-Bugfix del Userscript de @pablouser1 para Wuolah. 
+# WuolahExtra ~(FIX)~ (Parcheado, NO FUNCIONA)
+### Este script YA NO FUNCIONA.
+Wuolah ha hecho unos cambios en su sistema de descarga de archivos, inutilizando la mayoría de funciones. La probabilidad de que me ponga a intentar hacer que por lo menos vuelva a funcionar la descarga sin anuncios de PDFs (por el método de Gulag Cleaner) es nula por motivos académicos y personales. Si en un futuro [pablouser1](https://github.com/pablouser1) actualiza y arregla su script original (puesto que él es el creador original), actualizaré este repositorio (aunque con días/semanas de retraso, seguramente) para avisar. 
+
+## Bugfix del Userscript de @pablouser1 para Wuolah. 
 
 Para usar este programa necesitas un gestor de userscripts (por ejemplo, [ViolentMonkey](https://violentmonkey.github.io) o [TamperMonkey](https://tampermonkey.net)) instalado en tu navegador.
 
