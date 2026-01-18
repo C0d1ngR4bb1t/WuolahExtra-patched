@@ -1,7 +1,12 @@
-# WuolahExtra ~(FIX)~ (Parcheado, NO FUNCIONA)
+# WuolahExtra ~(FIX)~ (OBSOLETO, NO FUNCIONA)
 ### Este script YA NO FUNCIONA.
-Wuolah ha hecho unos cambios en su sistema de descarga de archivos, inutilizando la mayoría de funciones. La probabilidad de que me ponga a intentar hacer que por lo menos vuelva a funcionar la descarga sin anuncios de PDFs (por el método de Gulag Cleaner) es nula por motivos académicos y personales. Si en un futuro [pablouser1](https://github.com/pablouser1) actualiza y arregla su script original (puesto que él es el creador original), actualizaré este repositorio (aunque con días/semanas de retraso, seguramente) para avisar. 
+Wuolah ha hecho unos cambios en su sistema de descarga de archivos, inutilizando la mayoría de funciones. La probabilidad de que me ponga a intentar hacer que por lo menos vuelva a funcionar la descarga sin anuncios de PDFs (por el método de Gulag Cleaner) es nula por motivos académicos y personales. ~Si en un futuro [pablouser1](https://github.com/pablouser1) actualiza y arregla su script original (puesto que él es el creador original), actualizaré este repositorio (aunque con días/semanas de retraso, seguramente) para avisar.~
+## AVISO (18 Enero 2026)
+[Pablouser1](https://github.com/pablouser1) ha actualizado su script, y por tanto este "fork" queda archivado. Si por algún motivo acabas en este repositorio, asegúrate de ir [al repositorio original de pablouser](https://github.com/pablouser1/WuolahExtra)
 
+---
+#### `README.md` ↓
+---
 ## Bugfix del Userscript de @pablouser1 para Wuolah. 
 
 Para usar este programa necesitas un gestor de userscripts (por ejemplo, [ViolentMonkey](https://violentmonkey.github.io) o [TamperMonkey](https://tampermonkey.net)) instalado en tu navegador.
@@ -42,7 +47,8 @@ Quizás la web está caída, prueba a acceder directamente para comprobarlo.
 Elimina elementos de la interfaz como patrocinios, enlaces sociales...
 
 ## Desarrollo (¡NO EMPLEAR!)
-### AVISO: Este fork no ha empleado el modo desarrollo para parchear el script de pablouser. Si quieres desarrollar tú mismo el script, usa el [repositorio original](https://github.com/pablouser1/WuolahExtra)
+### AVISO: Este fork no ha empleado el "modo desarrollo" para parchear el script de pablouser1.
+Si quieres desarrollar tú mismo el script, usa el [repositorio original](https://github.com/pablouser1/WuolahExtra)
 ### Instalar dependencias
 ```bash
 yarn install
