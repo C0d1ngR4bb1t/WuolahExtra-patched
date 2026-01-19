@@ -1,7 +1,6 @@
-# WuolahExtra ~(FIX)~ (OBSOLETO, NO FUNCIONA)
-### Este script YA NO FUNCIONA.
-Wuolah ha hecho unos cambios en su sistema de descarga de archivos, inutilizando la mayoría de funciones. La probabilidad de que me ponga a intentar hacer que por lo menos vuelva a funcionar la descarga sin anuncios de PDFs (por el método de Gulag Cleaner) es nula por motivos académicos y personales. ~Si en un futuro [pablouser1](https://github.com/pablouser1) actualiza y arregla su script original (puesto que él es el creador original), actualizaré este repositorio (aunque con días/semanas de retraso, seguramente) para avisar.~
-## AVISO (18 Enero 2026)
+# WuolahExtra (versión 19 enero 2026 de Pablouser1)
+Wuolah hizo unos cambios en su sistema de descarga de archivos, inutilizando la mayoría de funciones. La probabilidad de que me ponga a intentar hacer que por lo menos vuelva a funcionar la descarga sin anuncios de PDFs (por el método de Gulag Cleaner) es nula por motivos académicos y personales. ~Si en un futuro [pablouser1](https://github.com/pablouser1) actualiza y arregla su script original (puesto que él es el creador original), actualizaré este repositorio (aunque con días/semanas de retraso, seguramente) para avisar.~
+## AVISO (19 Enero 2026)
 [Pablouser1](https://github.com/pablouser1) ha actualizado su script, y por tanto este "fork" queda archivado. Si por algún motivo acabas en este repositorio, asegúrate de ir [al repositorio original de pablouser](https://github.com/pablouser1/WuolahExtra)
 
 ---
@@ -23,8 +22,8 @@ Para usar este programa necesitas un gestor de userscripts (por ejemplo, [Violen
 * Se ha arreglado el Client-side PRO haciendo que siempre se limpie el caché + algunas cookies innecesarias al acceder a Wuolah con el UserScript (y sus opciones) activado. 
 
 ## Instalación
-Una vez hayas descargado tu gestor de userscripts, descarga el script desde la sección de [Releases](https://github.com/C0d1ngR4bb1t/WuolahExtra-patched/releases), ¡y listo!
-Enlace directo de instalación del último release (lanzamiento): [WuolahExtra-patched](https://github.com/C0d1ngR4bb1t/WuolahExtra-patched/releases/latest/download/WuolahExtraPatched.user.js) 
+Una vez hayas descargado tu gestor de userscripts, descarga el script desde la sección de [Releases]([https://github.com/C0d1ngR4bb1t/WuolahExtra-patched/releases](https://github.com/C0d1ngR4bb1t/WuolahExtra-patched/releases/tag/pablouser1-ORIGINAL_version-19-enero-2026)), ¡y listo!
+Enlace directo de instalación del último release (lanzamiento): [WuolahExtra-patched](https://github.com/C0d1ngR4bb1t/WuolahExtra-patched/releases/download/pablouser1-ORIGINAL_version-19-enero-2026/WuolahExtra.user.js) 
 
 ## Configuración
 Puedes acceder a la configuración del script desde tu gestor de userscripts en el icono de tu barra de herramientas ([más info](https://wiki.greasespot.net/Greasemonkey_Manual:Monkey_Menu#The_Menu))
